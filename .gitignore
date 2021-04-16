@@ -1,0 +1,6 @@
+./xtrapulp/0.2/*.parts*
+./xtrapulp/0.2/*.bin
+./xtrapulp/0.2/*.pt
+./xtrapulp/0.2/build
+./xtrapulp/0.2/.*.swp
+./xtrapulp/0.2/dataset
