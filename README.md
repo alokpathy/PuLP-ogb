@@ -1,3 +1,5 @@
+See README in ./xtrapulp/0.2
+
 Last Modified: 04 October 2019
 PuLP version: 0.2
 XtraPuLP version: 0.3
